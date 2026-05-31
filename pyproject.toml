@@ -1,0 +1,15 @@
+[project]
+name = "barca-turismo-backend"
+version = "0.1.0"
+description = "Backenb plataforma de reservas FC Barcelona"
+authors = [
+    {name = "dohrianpena14",email = "dohrianpena14@gmail.com"}
+]
+requires-python = ">=3.12,<4.0"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
